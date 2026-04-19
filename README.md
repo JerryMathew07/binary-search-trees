@@ -6,11 +6,11 @@ A clean, recursive implementation of a Binary Search Tree (BST) in modern C++17.
 
 | Operation | Complexity |
 | --- | --- |
-| 'insert(val)' | O(h) |
-| 'search(val)' | O(h) |
-| 'remove(val)' | O(h) |
-| 'inorder()' | O(n) |
-| 'height()' | O(n) |
+| ' insert(val) ' | O(h) |
+| ' search(val) ' | O(h) |
+| ' remove(val) ' | O(h) |
+| ' inorder() ' | O(n) |
+| ' height() ' | O(n) |
 
 *h = tree height; O(log n) average, O(n) worst case (degenerate/sorted input). *
 
