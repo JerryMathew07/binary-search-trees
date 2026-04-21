@@ -1,19 +1,19 @@
 # Build directory
-build/
+**/build/
 
 # Compiled files
-*.o
-*.a
-*.out
+**/*.o
+**/*.a
+**/*.out
 
 # CMake generate files
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-Makefile
-*.cmake
+**/CMakeCache.txt
+**/CMakeFiles/
+**/cmake_install.cmake
+**/Makefile
+**/*.cmake
 
 #IDE files
 .vscode/
 *.xcodeproj/
-.DS_Store
+.DS_Storebuild/
